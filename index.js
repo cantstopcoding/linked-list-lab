@@ -1,3 +1,3 @@
-function getName() {
-  // testing
+function getName(node) {
+  return node.name;
 }
